@@ -1,0 +1,17 @@
+/* CSS Document */
+table{
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	table-layout: fixed;
+}
+table, tr, th, td{
+	padding: 10px 30px 10px 30px;
+	color: white;
+	border: 1px solid #080808;
+	border-collapse: collapse;
+	font-size: 12px;
+	font-family: Arial;
+	background: linear-gradient(top, #3c3c3c 0%, #222222 100%);
+	background: -webkit-linear-gradient(top, #3c3c3c 0%, #222222 100%);
+}
